@@ -384,4 +384,3 @@ else:  # "Predios sin sector actual"
         st.plotly_chart(fig_sin, use_container_width=True)
     else:
         st.info("No se encontró la columna DEST_ACT en la hoja SIN SECTOR ACTUAL.")
-
